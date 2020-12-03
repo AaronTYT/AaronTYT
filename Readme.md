@@ -5,4 +5,4 @@ Bruh, this readme file shall be epic as soon as I figure out how to use to its u
 
 Here my social links to know about me in the meantime: <br/>
 <a href="https://aarontyt.com"><b>Website</b></a><br/>
-<i a href="https://www.linkedin.com/in/aaron-tanyutat/" class="fab fa-linkedin-in"></i></a>
+<i href="https://www.linkedin.com/in/aaron-tanyutat/" class="fab fa-linkedin-in"></i>
