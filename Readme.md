@@ -6,8 +6,10 @@ Bruh, this readme file shall be epic as soon as I figure out how to use to its u
 
 Here a cat video to enjoy bruh:
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=XyNlqQId-nk">
+src="">
 </iframe>
+
+![Cats](https://www.youtube.com/watch?v=XyNlqQId-nk)
 
 Here my social links to know about me in the meantime: <br/>
 <a href="https://aarontyt.com"><b>Website</b></a><br/>
