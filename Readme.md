@@ -4,6 +4,11 @@
 
 Bruh, this readme file shall be epic as soon as I figure out how to use to its ultimate potential :) 
 
+Here a cat video to enjoy bruh:
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=XyNlqQId-nk">
+</iframe>
+
 Here my social links to know about me in the meantime: <br/>
 <a href="https://aarontyt.com"><b>Website</b></a><br/>
 <a href="https://www.linkedin.com/in/aaron-tanyutat/"><b>LinkedIn</b></i>
