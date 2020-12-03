@@ -4,12 +4,8 @@
 
 Bruh, this readme file shall be epic as soon as I figure out how to use to its ultimate potential :) 
 
-Here a cat video to enjoy bruh:
-<iframe width="420" height="315"
-src="">
-</iframe>
-
-![Cats](https://www.youtube.com/watch?v=XyNlqQId-nk)
+Here a classic everything is awesome from The Lego Movie video to enjoy bruh:
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 Here my social links to know about me in the meantime: <br/>
 <a href="https://aarontyt.com"><b>Website</b></a><br/>
