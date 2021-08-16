@@ -1,4 +1,4 @@
-## BCS Software Developer Student
+## Graduate Software Developer/Engineer Student
 ### Real life name: Aaron Tan (Github: AaronTYT)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
