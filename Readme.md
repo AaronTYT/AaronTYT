@@ -6,5 +6,4 @@ Welcome to my GitHub Employers and other developers (or students), feel free to 
 ![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=AaronTYT&show_icons=true&theme=merko)
 
 Here my social links to know about me in the meantime: <br/>
-<a href="https://aarontyt.com"><b>Website (unavailable so don't click it)</b></a><br/>
 <a href="https://www.linkedin.com/in/aaron-tanyutat/"><b>LinkedIn</b></i>
