@@ -7,3 +7,6 @@ Welcome to my GitHub Employers and other developers (or students), feel free to 
 
 Here my social links to know about me in the meantime: <br/>
 <a href="https://www.linkedin.com/in/aaron-tanyutat/"><b>LinkedIn</b></i>
+
+<br/>
+Currently in the joruney to become a Full Stack Developer
