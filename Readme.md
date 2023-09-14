@@ -9,4 +9,4 @@ Here my social links to know about me in the meantime: <br/>
 <a href="https://www.linkedin.com/in/aaron-tanyutat/"><b>LinkedIn</b></i>
 
 <br/>
-Currently in journey to become a Full Stack Developer / Data Science
+Currently in journey to become a Technologist 
